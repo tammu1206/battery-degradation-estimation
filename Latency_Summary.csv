@@ -1,0 +1,7 @@
+Step,Latency (s)
+Random Forest Training Time,0.14618659019470215
+Gradient Boosting Training Time,0.0629434585571289
+Neural Network Training Time,0.05035066604614258
+Hybrid ML Training Time,0.0
+Kalman Optimization Time,0.009084463119506836
+GA Optimization Time,0.9083304405212402

@@ -1,0 +1,7 @@
+Model,RMSE,R² Score,Latency (seconds)
+Kalman + GA Optimized,1.175,0.9868,0.9174
+Gradient Boosting,1.4937,0.9787,0.0629
+Hybrid ML,1.5415,0.9773,0.0
+Random Forest,1.5415,0.9773,0.1462
+Kalman Filter,1.5415,0.9773,0.0091
+Neural Network,2.9952,0.9142,0.0504
