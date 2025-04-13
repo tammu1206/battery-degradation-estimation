@@ -70,21 +70,17 @@ Battery_Degradation_Estimation/
 - ✅ **Latency Comparison (Training + Optimization Time)**
 - ✅ **Feature Importance**
 
-*Sample visualizations:*
+---
+## 🔍 Future Scope
 
-<p align="center">
-  <img src="results/soh_vs_cycles.png" alt="SOH vs Cycles" width="500"/>
-  <img src="results/ga_convergence.png" alt="GA Convergence" width="500"/>
-</p>
+- Real-time battery health monitoring integration
+- Deployment on embedded systems for EVs
+- Expansion to different chemistries (LFP, NMC, etc.)
+- Incorporation of temperature effects and aging models
 
 ---
 
-🔍 Future Scope
+## 🧑‍💻 Author
 
-    Real-time battery health monitoring integration
-
-    Deployment on embedded systems for EVs
-
-    Expansion to different chemistries (LFP, NMC, etc.)
-
-    Incorporation of temperature effects and aging models
+**Tamanna**   
+[LinkedIn](www.linkedin.com/in/tamannna250204) • [GitHub](https://github.com/tammu1206) • [Email](mailto:tamanna250204@gmai.com)
