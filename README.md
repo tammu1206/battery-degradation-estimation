@@ -20,67 +20,15 @@ This project aims to outperform conventional methods in accuracy, efficiency, an
 
 ---
 
-## 🚀 Summary of Results
+## ▶️ Running the Project
 
-| Model                          | RMSE   | R² Score | Total Latency (sec) |
-|--------------------------------|--------|----------|--------------------|
-| Random Forest                  | *X.XX* | *0.XXX*  | *XXX.X*            |
-| Gradient Boosting              | *X.XX* | *0.XXX*  | *XXX.X*            |
-| Neural Network                 | *X.XX* | *0.XXX*  | *XXX.X*            |
-| Hybrid Kalman + GA Optimized   | **✔ Lowest** | **✔ Highest** | *XXX.X*            |
+    Clone the repository:
 
-> ✅ *Hybrid Kalman + GA Optimized model outperforms all individual ML models.*
+git clone https://github.com/your-username/battery-degradation-hybrid-model.git
+cd battery-degradation-hybrid-model
 
----
+    Open the Jupyter Notebook:
 
-## 📂 Project Structure
+jupyter notebook Hybrid_Battery_Degradation.ipynb
 
-Battery_Degradation_Estimation/
-│
-├── data/
-│   ├── B0005_Kalman_GA_Optimized.csv
-│   ├── B0005_ML_predictions.csv
-│   ├── B0005_Kalman_smoothed.csv
-│   └── B0005_Hybrid_Kalman_Output.csv
-│
-├── scripts/
-│   ├── all_graphs_generation.py
-│   └── summary_table_generation.py
-│
-├── results/
-│   ├── Final_Summary_Table.csv
-│   └── Latency_Summary.csv
-│
-├── report/
-│   ├── Final_Report.docx
-│   └── IEEE_Paper.tex
-│
-├── README.md
-└── LICENSE
 
----
-
-## 📊 Visualizations
-
-- ✅ **SOH vs. Cycles Comparison**
-- ✅ **Error Metrics: RMSE & R²**
-- ✅ **Residual Distribution**
-- ✅ **Prediction vs Actual Scatter Plot**
-- ✅ **GA Convergence Curve**
-- ✅ **Latency Comparison (Training + Optimization Time)**
-- ✅ **Feature Importance**
-
----
-## 🔍 Future Scope
-
-- Real-time battery health monitoring integration
-- Deployment on embedded systems for EVs
-- Expansion to different chemistries (LFP, NMC, etc.)
-- Incorporation of temperature effects and aging models
-
----
-
-## 🧑‍💻 Author
-
-**Tamanna**   
-[LinkedIn](www.linkedin.com/in/tamannna250204) • [GitHub](https://github.com/tammu1206) • [Email](mailto:tamanna250204@gmai.com)
